@@ -2,7 +2,8 @@
   - This is a fully animated, interactive dashboard page built using HTML and Sass (without Bootstrap). It includes manual swipe sliders, multiple animations, plugin integrations, and even a graph component to visualize data.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_IDP_Dashboard/
 
 🧰 Built With
 - HTML5
